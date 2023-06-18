@@ -1,4 +1,4 @@
-# zartek
+# food app
 
 A new Flutter project.
 
